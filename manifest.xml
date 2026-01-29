@@ -85,7 +85,7 @@
     
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Balance%20scale/Color/balance_scale_color.svgg"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Balance%20scale/Color/balance_scale_color.svg"/>
         <bt:Image id="Icon.32x32" DefaultValue="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Balance%20scale/Color/balance_scale_color.svg"/>
         <bt:Image id="Icon.80x80" DefaultValue="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Balance%20scale/Color/balance_scale_color.svg"/>
       </bt:Images>
