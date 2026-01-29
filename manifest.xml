@@ -11,12 +11,12 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Jeff's Email Assistant"/>
   <Description DefaultValue="AI-powered email drafting assistant for business attorneys"/>
-  <IconUrl DefaultValue="https://your-domain.com/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://your-domain.com/assets/icon-128.png"/>
-  <SupportUrl DefaultValue="https://your-domain.com/support"/>
+  <IconUrl DefaultValue="https://jeffwolfeDHW.github.io/email/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://jeffwolfeDHW.github.io/email/assets/icon-128.png"/>
+  <SupportUrl DefaultValue="https://jeffwolfeDHW.github.io/email/support"/>
   
   <AppDomains>
-    <AppDomain>https://your-domain.com</AppDomain>
+    <AppDomain>https://jeffwolfeDHW.github.io/email</AppDomain>
   </AppDomains>
   
   <Hosts>
@@ -32,7 +32,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://your-domain.com/taskpane.html"/>
+        <SourceLocation DefaultValue="https://jeffwolfeDHW.github.io/email/taskpane.html"/>
         <RequestedHeight>450</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -85,13 +85,13 @@
     
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://your-domain.com/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://your-domain.com/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://your-domain.com/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="jeffwolfeDHW.github.io/email/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="jeffwolfeDHW.github.io/email/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="jeffwolfeDHW.github.io/email/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://your-domain.com/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://your-domain.com/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="jeffwolfeDHW.github.io/email/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="jeffwolfeDHW.github.io/email/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Jeff's Assistant"/>
