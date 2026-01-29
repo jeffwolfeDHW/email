@@ -85,13 +85,13 @@
     
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="jeffwolfeDHW.github.io/email/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="jeffwolfeDHW.github.io/email/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="jeffwolfeDHW.github.io/email/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://jeffwolfeDHW.github.io/email/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://jeffwolfeDHW.github.io/email/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://jeffwolfeDHW.github.io/email/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="jeffwolfeDHW.github.io/email/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="jeffwolfeDHW.github.io/email/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://jeffwolfeDHW.github.io/email/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://jeffwolfeDHW.github.io/email/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Jeff's Assistant"/>
