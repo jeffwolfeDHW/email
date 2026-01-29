@@ -11,8 +11,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Jeff's Email Assistant"/>
   <Description DefaultValue="AI-powered email drafting assistant for business attorneys"/>
-  <IconUrl DefaultValue="https://jeffwolfeDHW.github.io/email/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://jeffwolfeDHW.github.io/email/assets/icon-128.png"/>
+  <IconUrl DefaultValue="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Balance%20scale/Color/balance_scale_color.svg"/>
+  <HighResolutionIconUrl DefaultValue="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Balance%20scale/Color/balance_scale_color.svg"/>
   <SupportUrl DefaultValue="https://jeffwolfeDHW.github.io/email/support"/>
   
   <AppDomains>
@@ -85,9 +85,9 @@
     
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://jeffwolfeDHW.github.io/email/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://jeffwolfeDHW.github.io/email/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://jeffwolfeDHW.github.io/email/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Balance%20scale/Color/balance_scale_color.svgg"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Balance%20scale/Color/balance_scale_color.svg"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Balance%20scale/Color/balance_scale_color.svg"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="Commands.Url" DefaultValue="https://jeffwolfeDHW.github.io/email/commands.html"/>
