@@ -1,0 +1,56 @@
+ <!DOCTYPE html>
+   <html>
+   <head>
+       <script type="text/javascript" src="https://appsforoffice.microsoft.com/lib/1/hosted/office.js"></script>
+   </head>
+   <body>
+       <script>
+           Office.initialize = function() {};
+       </script>
+   </body>
+   </html>
+```
+   - Paste it in
+   - Click "Commit new file"
+
+6. **Enable GitHub Pages**:
+   - Click "Settings" tab (top of page)
+   - Click "Pages" in left sidebar
+   - Under "Source", select "main" branch
+   - Click "Save"
+   - Wait 2-3 minutes
+
+Your URL will be: `https://YOUR-GITHUB-USERNAME.github.io/jeff-email-assistant/`
+
+---
+
+### Option 2: Using Your Computer (If you prefer)
+
+1. **Create a folder** on your desktop called `jeff-email-assistant`
+
+2. **Create three files** inside it:
+   - Right-click → New → Text Document
+   - Name the first one: `manifest.xml` (delete the .txt extension)
+   - Repeat for: `taskpane.html` and `commands.html`
+
+3. **Open each file in Notepad** and paste the corresponding code from my artifacts
+
+4. **Save all files**
+
+5. **Upload to GitHub**:
+   - Create repository (same as above)
+   - Click "Add file" → "Upload files"
+   - Drag all three files from your folder
+   - Click "Commit changes"
+
+---
+
+## Visual Summary
+
+Your GitHub repository should look like this:
+```
+jeff-email-assistant/
+├── README.md (automatically created)
+├── manifest.xml (you create - from artifact 1)
+├── taskpane.html (you create - from artifact 2)
+└── commands.html (you create - simple file)
